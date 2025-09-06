@@ -19,7 +19,3 @@ I found an open-source design online and explored its code to understand **form 
 This project was inspired by open-source login page templates.  
 I used the design as a learning resource and customized it to improve my understanding.
 
-## 📌 Next Steps
-- Add actual backend authentication (Firebase/Auth0).
-- Implement form validation with JavaScript.
-- Make it mobile-first responsive.
